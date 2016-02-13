@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     TextView a ;
-    TextView c,d;
+    TextView c,d,s;
 
 
     @Override
